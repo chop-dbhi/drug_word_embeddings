@@ -1,0 +1,1 @@
+drug[All Fields] AND hasabstract[text] AND English[lang] AND (Case Reports[ptyp] OR Clinical Trial[ptyp] OR Clinical Conference[ptyp] OR Clinical Study[ptyp])
